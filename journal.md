@@ -10,3 +10,10 @@ After that, I started work on the CAD, finishing the y-axis.
 I decided to go with a sturdier type of build because I want it to last a long time. I'll be using it to cut things like thin wood. It also has PWM control for the laser so engraving still is possible even with the sturdy leadscrew system. 
 
 Total Time Spent: ~4 Hours
+
+<h1>July 20th</h1>
+I completely changed the entire perspective of this thing. I put way more focus on safety, with fire sensing, multiple ways to stop in case of an emergency, further research on optical safety, ventilation, filtering, and the movement system.
+Yeah, I knew that belts were faster when initially designing, but I opted for leadscrews because I wanted it to be super durable. But I believe that belts (due to cheapness), are the better option so I will be switching my entire design.
+I might go overbudget with all these features but with lasers you can never be too safe.
+
+Total Time Spent: ~3 Hours
