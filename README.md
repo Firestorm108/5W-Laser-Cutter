@@ -1,9 +1,4 @@
 # 5W-Laser-Cutter
-A 5W diode laser cutter that aims to be as safe as possible!
-Not only does it have an enclosure with only one small laser-safe acrylic square for checking, it is also ventilated and filtered!
 
-More features include:
--Temperature, Humidity, and VOC sensing
--Automatic power shutoff in case of a fire
--An alarm to alert nearby people
--A smart system
+A 5W diode laser cutter that gets as safe as it can be (with lasers of this power).
+It has robust features such as 0.9 degree steppers which allow further precision, and air assist on the laser head.
