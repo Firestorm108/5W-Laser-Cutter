@@ -47,6 +47,6 @@ Tomorrow I'll be working on the smart safety system + more safety features such 
 The belt clamping system, which confused me for some reason ^^
 
 
-
+Overall today finished the movement system for both the x and y axes. I learned a lot actually, it's crazy how designing something can give me more skills than doing something like a course.
 
 Total Time Spent: ~12 Hours
