@@ -5,9 +5,15 @@ It has robust features such as 0.9 degree steppers which allow further precision
 
 
 <h1>Laser Safety</h1>
-Make sure to ALWAYS buy laser goggles from a reputable brand and with properly rated specifications. Lasers are extremely dangerous and you should never look at them directly and always wear proper safety goggles. I am not responsible for any damage caused from irresponsibly using lasers.
 
-General Tips for Working with Lasers:
+** Make sure to ALWAYS buy laser goggles from a reputable brand and with properly rated specifications. **
+
+Lasers are extremely dangerous and you should never look at them directly and always wear proper safety goggles. 
+
+** I am not responsible for any damage caused from irresponsibly using lasers. ** 
+
+**General Tips for Working with Lasers:**
+
 * The glasses that come with lasers are NOT safe, and will not protect your eyes.
 
 * Lasers over 5mW require proper laser goggles, 5mW is still dangerous however the blink reflex protects you in most cases.
