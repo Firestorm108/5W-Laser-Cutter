@@ -32,3 +32,20 @@ my skeptical "diagram"
 <img width="1171" height="532" alt="CleanShot 2025-07-21 at 23 41 27" src="https://github.com/user-attachments/assets/e68954d8-64c1-4ac2-a81e-50b161804c79" />
 
 Total Time Spent: ~5 Hours
+
+
+<h1>July 22nd</h1>
+
+Insane work was put in today! I finished the entire core laser system, the belt tensioners confused me a bit but I got it done. I'm so proud of how clean this looks, and it looks like a great machine to have.
+Tomorrow I'll be working on the smart safety system + more safety features such as ventilation and the enclosure. I also learned a lot more about laser goggles even though it's extremely hard to find information about it, I think not many people give advice on them. I added a bed as well because it would be pretty bad if my laser burned the desk.
+
+I also got a quick render screenshot to show, 
+
+<img width="836" height="574" alt="CleanShot 2025-07-23 at 08 35 44" src="https://github.com/user-attachments/assets/0bc3f81a-6bdf-429f-91aa-2f7f05bf78e6" />
+
+
+
+
+<img width="891" height="658" alt="CleanShot 2025-07-23 at 08 35 32" src="https://github.com/user-attachments/assets/ab896715-f0ff-47ef-9e66-b95b980b6418" />
+
+Total Time Spent: ~12 Hours
