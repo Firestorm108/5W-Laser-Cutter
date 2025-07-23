@@ -66,5 +66,7 @@ After that, I added the brackets, supports, etc. The panels as well and the lase
 That would be very bad. It's made of a fire retardant aluminum type insulation which comes in rolls so the panels can be made cheaply. The glass material is used in Fusion 360 for visual purposes.
 
 
+<img width="739" height="624" alt="CleanShot 2025-07-23 at 11 25 21" src="https://github.com/user-attachments/assets/1cd1198c-16d7-4fc1-b636-bde57b61d915" />
 
+Quick render for fun
 
