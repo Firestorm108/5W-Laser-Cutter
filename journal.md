@@ -57,3 +57,14 @@ I started today out by designing the enclosure out of extrusions. A little expen
 
 <img width="925" height="637" alt="CleanShot 2025-07-23 at 08 43 49" src="https://github.com/user-attachments/assets/74ac37dd-012d-4960-874e-7487a9c354de" />
 
+After that, I added the brackets, supports, etc. The panels as well and the laser safe peephole (which is tiny due to cost and protection)
+
+<img width="726" height="622" alt="CleanShot 2025-07-23 at 11 06 23" src="https://github.com/user-attachments/assets/c8a05891-4472-49d0-ad8f-eea02e56d3b7" />
+
+<h4>THE ENCLOSURE IS NOT MADE OF GLASS</h4>
+
+That would be very bad. It's made of a fire retardant aluminum type insulation which comes in rolls so the panels can be made cheaply. The glass material is used in Fusion 360 for visual purposes.
+
+
+
+
