@@ -50,3 +50,10 @@ The belt clamping system, which confused me for some reason ^^
 Overall today finished the movement system for both the x and y axes. I learned a lot actually, it's crazy how designing something can make me more experienced than doing something like a course.
 
 Total Time Spent: ~12 Hours
+
+<h1>July 23rd</h1>
+
+I started today out by designing the enclosure out of extrusions. A little expensive, but the problem with most 5W diode laser cutters/engravers on the market is that they have zero safety features implemented. An enclosure + ventilation + proper safety glasses should be required for every cutter sold.
+
+<img width="925" height="637" alt="CleanShot 2025-07-23 at 08 43 49" src="https://github.com/user-attachments/assets/74ac37dd-012d-4960-874e-7487a9c354de" />
+
