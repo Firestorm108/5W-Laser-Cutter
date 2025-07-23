@@ -8,8 +8,12 @@ It has robust features such as 0.9 degree steppers which allow further precision
 Make sure to ALWAYS buy laser goggles from a reputable brand and with properly rated specifications. Lasers are extremely dangerous and you should never look at them directly and always wear proper safety goggles. I am not responsible for any damage caused from irresponsibly using lasers.
 
 General Tips for Working with Lasers:
--The glasses that come with lasers are NOT safe, and will not protect your eyes.
--Lasers over 5mW require proper laser goggles, 5mW is still dangerous however the blink reflex protects you in most cases.
--Cutting with lasers releases fumes which need to be filtered or ventilated to a window, preferably both.
--An enclosure is a good idea.
--Do LOTS of research before working with lasers. Diode lasers need to be treated very carefully especially.
+* The glasses that come with lasers are NOT safe, and will not protect your eyes.
+
+* Lasers over 5mW require proper laser goggles, 5mW is still dangerous however the blink reflex protects you in most cases.
+
+* Cutting with lasers releases fumes which need to be filtered or ventilated to a window, preferably both.
+
+* An enclosure is a good idea.
+
+* Do LOTS of research before working with lasers. Diode lasers need to be treated very carefully especially.
