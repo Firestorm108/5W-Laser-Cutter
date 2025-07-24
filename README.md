@@ -20,6 +20,6 @@ Lasers are extremely dangerous and you should never look at them directly and al
 
 * Cutting with lasers releases fumes which need to be filtered or ventilated to a window, preferably both.
 
-* An enclosure is a good idea.
+* An enclosure is the BARE minimum for safety along with properly rated laser goggles.
 
 * Do LOTS of research before working with lasers. Diode lasers need to be treated very carefully especially.
