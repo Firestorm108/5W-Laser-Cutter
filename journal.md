@@ -117,3 +117,10 @@ Some pictures
 <img width="863" height="572" alt="CleanShot 2025-07-24 at 15 22 55" src="https://github.com/user-attachments/assets/eb4e81bf-de7a-4bea-b09f-3c0d29a0a40e" />
 
 <img width="957" height="607" alt="CleanShot 2025-07-24 at 15 23 13" src="https://github.com/user-attachments/assets/264dcf5b-cb1d-4199-a2a4-14578d11e135" />
+
+
+Polished up a bit, added panels for reference (even though i'm just gonna cut them out of that special roll)
+<img width="1000" height="733" alt="CleanShot 2025-07-24 at 16 11 58" src="https://github.com/user-attachments/assets/42cc1e03-3755-4fa8-856e-b3f66c716858" />
+
+
+
