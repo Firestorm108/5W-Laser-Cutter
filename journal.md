@@ -98,3 +98,15 @@ Coming together...added a cooling fan because of the drivers and chips...2 micro
 <img width="1037" height="732" alt="CleanShot 2025-07-24 at 14 56 46" src="https://github.com/user-attachments/assets/28386b35-fe4a-4bce-84f5-ac105a959309" />
 
 The completed view of the inside, I'm pretty happy that it offers lots of safety features like alarms, fire detection, an e-stop, and just the ability to control the cutter from outside of the enclosure.
+
+
+
+
+Finished! Just gotta polish it up a bit now.
+
+
+<img width="717" height="500" alt="CleanShot 2025-07-24 at 15 13 43" src="https://github.com/user-attachments/assets/cb96bf78-189d-46c0-a667-d1d9a4efa5cc" />
+
+
+
+
