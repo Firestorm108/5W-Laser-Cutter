@@ -82,3 +82,8 @@ Total Time Spent: ~4 Hours
 <img width="869" height="553" alt="CleanShot 2025-07-24 at 11 53 34" src="https://github.com/user-attachments/assets/45389fa1-799f-444f-a861-c9d7b407b650" />
 
 I designed the bracket for the fan with some holes for wires to travel into. Also an adapter for the 4 inch OD pipe, and a bracket mount for the tinyyy laser safe acrylic piece. 
+
+
+Making the casing for the control/safety box.
+
+<img width="923" height="587" alt="CleanShot 2025-07-24 at 14 06 48" src="https://github.com/user-attachments/assets/47b3063b-fb6c-446e-bd6d-08591c5641b2" />
