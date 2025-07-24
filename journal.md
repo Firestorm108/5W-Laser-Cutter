@@ -75,3 +75,10 @@ Quick render for fun
 Added some holes but I need to design mounting brackets for the fan and the laser acrylic piece.
 
 Total Time Spent: ~4 Hours
+
+
+<h1>July 24th</h1>
+
+<img width="869" height="553" alt="CleanShot 2025-07-24 at 11 53 34" src="https://github.com/user-attachments/assets/45389fa1-799f-444f-a861-c9d7b407b650" />
+
+I designed the bracket for the fan with some holes for wires to travel into. Also an adapter for the 4 inch OD pipe, and a bracket mount for the tinyyy laser safe acrylic piece. 
