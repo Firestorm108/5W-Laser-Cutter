@@ -70,3 +70,8 @@ That would be very bad. It's made of a fire retardant aluminum type insulation w
 
 Quick render for fun
 
+<img width="832" height="730" alt="CleanShot 2025-07-24 at 10 49 03" src="https://github.com/user-attachments/assets/e7f756b3-9083-4690-9f67-510d3a18d879" />
+
+Added some holes but I need to design mounting brackets for the fan and the laser acrylic piece.
+
+Total Time Spent: ~4 Hours
