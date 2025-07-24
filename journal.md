@@ -120,7 +120,8 @@ Some pictures
 
 
 Polished up a bit, added panels for reference (even though i'm just gonna cut them out of that special roll)
-<img width="1000" height="733" alt="CleanShot 2025-07-24 at 16 11 58" src="https://github.com/user-attachments/assets/42cc1e03-3755-4fa8-856e-b3f66c716858" />
+
+<img width="1052" height="741" alt="CleanShot 2025-07-24 at 16 13 39" src="https://github.com/user-attachments/assets/77b0549a-e1cc-48e1-bf8a-5ba5bcb0cb1c" />
 
 
 
