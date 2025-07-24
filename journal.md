@@ -107,6 +107,13 @@ Finished! Just gotta polish it up a bit now.
 
 <img width="717" height="500" alt="CleanShot 2025-07-24 at 15 13 43" src="https://github.com/user-attachments/assets/cb96bf78-189d-46c0-a667-d1d9a4efa5cc" />
 
+Some pictures
 
 
+<img width="1007" height="662" alt="CleanShot 2025-07-24 at 15 22 28" src="https://github.com/user-attachments/assets/242d836c-f539-4e19-a407-9c0bd57abe76" />
 
+<img width="814" height="568" alt="CleanShot 2025-07-24 at 15 22 41" src="https://github.com/user-attachments/assets/79109fd7-0c2e-44dd-ab11-d095a3f05cf0" />
+
+<img width="863" height="572" alt="CleanShot 2025-07-24 at 15 22 55" src="https://github.com/user-attachments/assets/eb4e81bf-de7a-4bea-b09f-3c0d29a0a40e" />
+
+<img width="957" height="607" alt="CleanShot 2025-07-24 at 15 23 13" src="https://github.com/user-attachments/assets/264dcf5b-cb1d-4199-a2a4-14578d11e135" />
