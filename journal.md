@@ -94,3 +94,7 @@ Making the casing for the control/safety box.
 
 Coming together...added a cooling fan because of the drivers and chips...2 microcontrollers + 3 drivers working at full power without any cooling is probably a bad idea, so yeah.
 
+
+<img width="1037" height="732" alt="CleanShot 2025-07-24 at 14 56 46" src="https://github.com/user-attachments/assets/28386b35-fe4a-4bce-84f5-ac105a959309" />
+
+The completed view of the inside, I'm pretty happy that it offers lots of safety features like alarms, fire detection, an e-stop, and just the ability to control the cutter from outside of the enclosure.
