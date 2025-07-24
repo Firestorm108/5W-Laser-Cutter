@@ -87,3 +87,10 @@ I designed the bracket for the fan with some holes for wires to travel into. Als
 Making the casing for the control/safety box.
 
 <img width="923" height="587" alt="CleanShot 2025-07-24 at 14 06 48" src="https://github.com/user-attachments/assets/47b3063b-fb6c-446e-bd6d-08591c5641b2" />
+
+
+<img width="1051" height="725" alt="CleanShot 2025-07-24 at 14 42 06" src="https://github.com/user-attachments/assets/0610652a-51c2-492c-a59d-9d907bb7acc4" />
+
+
+Coming together...added a cooling fan because of the drivers and chips...2 microcontrollers + 3 drivers working at full power without any cooling is probably a bad idea, so yeah.
+
