@@ -85,7 +85,7 @@ I designed this due to many cheap diode laser cutters flooding the market, with 
 |                                        | Silver 20T W6 B5 GT2 T (3)                                       | $5        | [Link](https://www.aliexpress.us/item/2251832631013486.html) |
 |                                        | Belt Type A                                                      | $5        | [Link](https://www.aliexpress.us/item/3256801435743795.html) |
 |                                        | 4x V Wheel Plate                                                 | $20       | [Link](https://www.amazon.com/dp/B0CHYS3G96/) |
-
+| | PETG/PLA Filament | $0 | Already Owned |
 ---
 
 ### **Total Cost: $489**  
