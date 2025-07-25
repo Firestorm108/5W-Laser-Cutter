@@ -129,3 +129,12 @@ Polished up a bit, added panels for reference (even though i'm just gonna cut th
 I also started getting pictures in for the wiring diagram. I think i'll polish it all up tomorrow and submit. It's late right now.
 
 Total Time Spent: 5 Hours
+
+
+
+
+<h1>July 25th</h1>
+
+Finished the wiring diagram!
+<img width="928" height="731" alt="CleanShot 2025-07-25 at 12 43 37" src="https://github.com/user-attachments/assets/b05e4a21-b852-488e-814d-b863bac97892" />
+
