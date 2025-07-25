@@ -1,7 +1,7 @@
 # 5W-Laser-Cutter
 A 5 Watt (output) diode laser engraver/cutter that can:
 
-<h6>Cut: </h6>
+<h4>Cut: </h4>
 Thin Basswood/Plywood/Balsa
 Cardboard
 Black Acrylic
@@ -9,7 +9,7 @@ Felt
 Foamboard
 Leather
 
-<h6> Engrave: </h6>
+<h4> Engrave: </h4>
 Most types of wood
 Soft Metals
 Glass
