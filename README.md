@@ -35,4 +35,6 @@ I designed this due to many cheap diode laser cutters flooding the market, with 
 <img width="1520" height="740" alt="1ba0f0ed-b31c-47d2-8f72-23831fbd364b" src="https://github.com/user-attachments/assets/1b2d9cd7-b729-43f2-b519-b3faf09d92ff" />
 <img width="1520" height="740" alt="Assembly_2025-Jul-25_08-39-19PM-000_CustomizedView32878857349" src="https://github.com/user-attachments/assets/73735050-3e60-4c6f-8bfa-9106daf06339" />
 
+<h1>The Wiring Diagram</h1>
+<img width="751" height="572" alt="image" src="https://github.com/user-attachments/assets/596fbc1d-8ad1-4af0-87fc-5b6218f75ce9" />
 
