@@ -3,6 +3,7 @@ A 5 Watt (output) diode laser engraver/cutter that can:
 
 <h4>Cut: </h4>
 Thin Basswood/Plywood/Balsa
+
 Cardboard
 Black Acrylic
 Felt
