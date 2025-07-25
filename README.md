@@ -11,7 +11,7 @@ It has many robust features, such as 0.9 stepper motors, laser head air assist, 
 
 ** Make sure to ALWAYS buy laser goggles from a reputable brand and with properly rated specifications. **
 
-Lasers are extremely dangerous and you should never look at them directly and always wear proper safety goggles. 
+** Lasers are extremely dangerous and you should never look at them directly and always wear proper safety goggles. **
 
 ** I am not responsible for any damage caused from irresponsibly using lasers. ** 
 
