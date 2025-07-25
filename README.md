@@ -1,4 +1,4 @@
-# 5W-Laser-Cutter
+# Laser McLaserFace (5W Laser Cutter)
 A 5-Watt diode laser engraver/cutter that can cut thin basswood, plywood, balsa, dark acrylic, leather, foamboard, and cardboard. It can engrave a huge amount of things, including most woods, soft metals, leathers, rubbers, and plastics.
 
 It has many robust features, such as 0.9 stepper motors, laser head air assist, an opaque ventilated enclosure with a small laser-safe acrylic window, and a control box with lots of safety features!
