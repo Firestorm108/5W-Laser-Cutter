@@ -1,4 +1,20 @@
 # 5W-Laser-Cutter
+A 5 Watt (output) diode laser engraver/cutter that can:
+
+<h6>Cut: </h6>
+Thin Basswood/Plywood/Balsa
+Cardboard
+Black Acrylic
+Felt
+Foamboard
+Leather
+
+<h6> Engrave: </h6>
+Most types of wood
+Soft Metals
+Glass
+Everything it can cut
+
 
 A 5W diode laser cutter that gets as safe as it can be (with lasers of this power).
 It has robust features such as 0.9 degree steppers which allow further precision, and air assist on the laser head.
