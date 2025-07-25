@@ -136,5 +136,6 @@ Total Time Spent: 5 Hours
 <h1>July 25th</h1>
 
 Finished the wiring diagram!
-<img width="928" height="731" alt="CleanShot 2025-07-25 at 12 43 37" src="https://github.com/user-attachments/assets/b05e4a21-b852-488e-814d-b863bac97892" />
+
+<img width="751" height="572" alt="CleanShot 2025-07-25 at 12 48 43" src="https://github.com/user-attachments/assets/15f33d25-b4d3-4511-8939-8ec749ad67bf" />
 
