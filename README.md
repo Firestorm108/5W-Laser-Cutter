@@ -2,19 +2,31 @@
 A 5 Watt (output) diode laser engraver/cutter that can:
 
 <h4>Cut: </h4>
-Thin Basswood/Plywood/Balsa
 
-Cardboard
-Black Acrylic
-Felt
-Foamboard
-Leather
+* Thin Basswood/Plywood/Balsa
+
+* Cardboard
+
+* Black Acrylic
+
+* Felt
+
+* Foamboard
+
+* Leather
 
 <h4> Engrave: </h4>
-Most types of wood
-Soft Metals
-Glass
-Everything it can cut
+
+* Most types of wood
+  
+* Soft Metals
+  
+* Leather
+  
+* Rubbers
+  
+* Plastics
+  
 
 
 A 5W diode laser cutter that gets as safe as it can be (with lasers of this power).
