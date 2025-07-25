@@ -1,4 +1,11 @@
-<h1>Total Time Spent: 36 Hours</h1>
+---
+title: "Laser-McLaserFace"
+author: "Sidd"
+description: "A 5W Laser Engraver/Cutter"
+created_at: "2025-07-18"
+total_time: "36 Hours"
+---
+
 
 <h1>July 18th</h1>
 Today, I picked out parts and the mechanics as well as thought about the overall design. I made sure to allocate enough for decent laser goggles and an enclosure which I plan to be fully solid plastic with a small square cut out the top with a (1"x1") laser safe acrylic piece which you can check on the cutter through.
