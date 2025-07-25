@@ -1,3 +1,5 @@
+<h1>Total Time Spent: 36 Hours</h1>
+
 <h1>July 18th</h1>
 Today, I picked out parts and the mechanics as well as thought about the overall design. I made sure to allocate enough for decent laser goggles and an enclosure which I plan to be fully solid plastic with a small square cut out the top with a (1"x1") laser safe acrylic piece which you can check on the cutter through.
 
@@ -37,7 +39,7 @@ Total Time Spent: ~5 Hours
 <h1>July 22nd</h1>
 
 Insane work was put in today! I finished the entire core laser system, the belt tensioners confused me a bit but I got it done. I'm so proud of how clean this looks, and it looks like a great machine to have.
-Tomorrow I'll be working on the smart safety system + more safety features such as ventilation and the enclosure. I also learned a lot more about laser goggles even though it's extremely hard to find information about it, I think not many people give advice on them. I added a bed as well because it would be pretty bad if my laser burned the desk.
+Tomorrow I'll be working on the smart safety system + more safety features such as ventilation and the enclosure. I also learned a lot more about laser goggles even though it's extremely hard to find information about it, I think not many people give advice on them. I added a bed as well because it would be pretty bad if my laser burned the desk. I kinda locked in super hard and definitely the hardest part about today was the belt system.
 
 <img width="891" height="658" alt="CleanShot 2025-07-23 at 08 35 32" src="https://github.com/user-attachments/assets/ab896715-f0ff-47ef-9e66-b95b980b6418" />
 
@@ -128,7 +130,7 @@ Polished up a bit, added panels for reference (even though i'm just gonna cut th
 
 I also started getting pictures in for the wiring diagram. I think i'll polish it all up tomorrow and submit. It's late right now.
 
-Total Time Spent: 5 Hours
+Total Time Spent: ~5 Hours
 
 
 
@@ -140,3 +142,10 @@ Finished the wiring diagram! And the code as well.
 <img width="751" height="572" alt="CleanShot 2025-07-25 at 12 48 43" src="https://github.com/user-attachments/assets/15f33d25-b4d3-4511-8939-8ec749ad67bf" />
 
 <img width="471" height="629" alt="CleanShot 2025-07-25 at 13 03 42" src="https://github.com/user-attachments/assets/496d59da-c242-4223-9b95-ec266f5f2113" />
+
+After that, I polished everything up. Made renders, etc and finalized the repo, and I should be ready to submit very soon!
+
+Total Time Spent: ~3 Hours
+
+
+
