@@ -124,4 +124,8 @@ Polished up a bit, added panels for reference (even though i'm just gonna cut th
 <img width="1052" height="741" alt="CleanShot 2025-07-24 at 16 13 39" src="https://github.com/user-attachments/assets/77b0549a-e1cc-48e1-bf8a-5ba5bcb0cb1c" />
 
 
+<img width="1241" height="777" alt="CleanShot 2025-07-24 at 23 14 38" src="https://github.com/user-attachments/assets/db12343b-b179-4f30-8894-509f67c07c44" />
 
+I also started getting pictures in for the wiring diagram. I think i'll polish it all up tomorrow and submit. It's late right now.
+
+Total Time Spent: 5 Hours
