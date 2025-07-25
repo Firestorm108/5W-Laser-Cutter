@@ -38,3 +38,57 @@ I designed this due to many cheap diode laser cutters flooding the market, with 
 <h1>The Wiring Diagram</h1>
 <img width="751" height="572" alt="image" src="https://github.com/user-attachments/assets/596fbc1d-8ad1-4af0-87fc-5b6218f75ce9" />
 
+## Bill of Materials
+
+| **Category**                            | **Item**                                                         | **Price** | **Link** |
+|----------------------------------------|------------------------------------------------------------------|-----------|----------|
+| **Power and Control**                  | 5W Laser                                                         | $90       | [Link](https://www.aliexpress.us/item/3256803120492638.html) |
+|                                        | LaserGRBL Board + TMC2209s                                       | $20       | [Link](https://www.aliexpress.us/item/3256803342472175.html) |
+|                                        | Nema 17 Stepper Motors (3)                                       | $11       | [Link](https://www.aliexpress.us/item/3256802068491329.html) |
+|                                        | 12V 12A 144W Power Supply                                        | $30       | [Link](https://www.amazon.com/dp/B0BHWMP8H5) |
+|                                        | Roller Level Limit Switches                                      | $4        | [Link](https://www.aliexpress.us/item/3256808529363805.html) |
+| **Air Assist**                         | Tubing                                                           | $5        | [Link](https://www.amazon.com/dp/B08BRGM9T8/) |
+|                                        | Air Pump                                                         | $6        | [Link](https://www.aliexpress.us/item/3256807353466989.html) |
+| **Laser Safety**                       | Laser Goggles 190–540nm + 800–1700nm                             | $90       | [Link](https://phillips-safety.com/shop/laser/laser-safety-glasses/akp/akp-laser-safety-glasses-9388/) |
+|                                        | Laser Protective Window                                          | $10       | [Link](https://phillips-safety.com/shop/laser/laser-safety-windows/acrylic-laser-window/near-vis-laser-protective-acrylic-sheet-orange/?attribute_thickness=0.250%22) |
+|                                        | Shipping (Safety Items)                                          | $20       | –        |
+| **Enclosure**                          | 500mm Extrusions (8)                                             | $44       | [Link](https://www.amazon.com/dp/B0DY7F1JKF) |
+|                                        | L Connectors                                                     | $10       | [Link](https://www.amazon.com/dp/B0DS2SPN3Q/) |
+|                                        | Fireproof Aluminum Insulation Roll                               | $17       | [Link](https://www.amazon.com/dp/B0CG1BZ5W6/) |
+| **Ventilation, Safety, Alarms**        | E-Stop Button ("oh shit button")                                 | $2        | [Link](https://www.aliexpress.us/item/3256803351572300.html) |
+|                                        | 6 Channel 5V Relay Module                                        | $4        | [Link](https://www.aliexpress.us/item/3256804675624982.html) |
+|                                        | Temperature Probe                                                | $2        | [Link](https://www.aliexpress.us/item/3256807353480124.html) |
+|                                        | Arduino Nano                                                     | $2        | [Link](https://www.aliexpress.us/item/3256807289041722.html) |
+|                                        | 5V Buzzers                                                       | $2        | [Link](https://www.aliexpress.us/item/2255800643239740.html) |
+|                                        | Ducting Exhaust                                                  | $7        | [Link](https://www.amazon.com/dp/B09LM4285L) |
+|                                        | BLDC 12V Fan (12025)                                             | $8        | [Link](https://www.aliexpress.us/item/3256807400971120.html) |
+|                                        | Activated Carbon                                                 | $0        | Already Owned |
+|                                        | 12V to 5V Buck Converter                                         | $2        | [Link](https://www.aliexpress.us/item/3256806906184086.html) |
+|                                        | Toggle Switches                                                  | $1        | [Link](https://www.aliexpress.us/item/2255800787248498.html) |
+|                                        | 8010 Cooling Fan                                                 | $3        | [Link](https://www.aliexpress.us/item/3256806120222119.html) |
+| **General Hardware**                   | 300mm 2020 Extrusions                                            | $23       | [Link](https://www.amazon.com/dp/B0C9QTZQ3T/) |
+|                                        | Corner Brackets                                                  | $7        | [Link](https://www.aliexpress.us/item/3256808845200216.html) |
+|                                        | M5 T-Nuts                                                        | $2        | [Link](https://www.aliexpress.us/item/2251832628044342.html) |
+|                                        | 8mm M1.6 Screws                                                  | $2        | [Link](https://www.aliexpress.us/item/3256806983352954.html) |
+|                                        | 12mm M5 Screws                                                   | $2        | [Link](https://www.aliexpress.us/item/3256806983352954.html) |
+|                                        | 10mm M5 Screws                                                   | $2        | [Link](https://www.aliexpress.us/item/3256806983352954.html) |
+|                                        | 50mm M5 Screw                                                    | $4        | [Link](https://www.aliexpress.us/item/3256808399236240.html) |
+|                                        | M5 Nuts                                                          | $0        | Already Owned |
+|                                        | 14mm M3 Screws                                                   | $2        | [Link](https://www.aliexpress.us/item/3256808399236240.html) |
+|                                        | 35mm M5 Screw                                                    | $2        | [Link](https://www.aliexpress.us/item/3256805692722422.html) |
+|                                        | 16mm M4 Screw                                                    | $2        | [Link](https://www.aliexpress.us/item/3256806983352954.html) |
+|                                        | 16mm M3 Screw                                                    | $2        | [Link](https://www.aliexpress.us/item/3256806983352954.html) |
+|                                        | 8mm x 300mm Linear Rods                                          | $7        | [Link](https://www.amazon.com/dp/B0BNLDZ6Y5) |
+|                                        | LM8UU Bearings                                                   | $3        | [Link](https://www.aliexpress.us/item/3256806883965670.html) |
+|                                        | 608 ZZ Bearings                                                  | $4        | [Link](https://www.aliexpress.us/item/3256804680880370.html) |
+|                                        | 20TB5W6 Pulley (5)                                               | $5        | [Link](https://www.aliexpress.us/item/2251832595367020.html) |
+|                                        | Silver 20T W6 B5 GT2 T (3)                                       | $5        | [Link](https://www.aliexpress.us/item/2251832631013486.html) |
+|                                        | Belt Type A                                                      | $5        | [Link](https://www.aliexpress.us/item/3256801435743795.html) |
+|                                        | 4x V Wheel Plate                                                 | $20       | [Link](https://www.amazon.com/dp/B0CHYS3G96/) |
+
+---
+
+### **Total Cost: $489**  
+**_(A bit crazy, I know. Just the laser cutter itself would fit into the $350 budget, but adding all these safety features has skyrocketed the price, which is worth it.)_**
+
+---
